@@ -1,5 +1,5 @@
 # FTI (Flip The Island) Map Alert
-A Discord bot that alerts you when fliptheisland.com's map image changes.
+A Discord bot that alerts you when [fliptheisland.com](https://fliptheisland.com/)'s map image changes.
 
 ![FTI Bot](mapalert.png)
 
