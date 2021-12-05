@@ -1,3 +1,5 @@
+# This bot will no longer work as [fliptheisland.com](https://fliptheisland.com/) is officially over. The repository will be kept in an archived state.
+
 # FTI (Flip The Island) Map Alert
 A Discord bot that alerts you when [fliptheisland.com](https://fliptheisland.com/)'s map image changes.
 
